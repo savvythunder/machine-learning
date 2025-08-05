@@ -38,8 +38,8 @@ This project demonstrates a machine learning model trained using **scikit-learn*
 ## **Installation**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/ml-scikit-learn-project.git
-   cd ml-scikit-learn-project
+   git clone https://github.com/savvythunder/machine-learning/tree/main/Logistic-regression-example
+   cd Logistic-regression-example
    ```  
 2. Install dependencies:  
    ```bash
